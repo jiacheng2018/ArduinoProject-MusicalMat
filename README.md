@@ -15,3 +15,7 @@ https://www.youtube.com/watch?time_continue=23&v=4yl29kJr61w
 ![0V0wQlp](https://user-images.githubusercontent.com/42711913/64773846-69e5f680-d596-11e9-9dfe-97a864e2b95d.jpg)
 ### Device testing 
 ![NM6eoYQ](https://user-images.githubusercontent.com/42711913/64773869-78341280-d596-11e9-8435-829a97c168fd.jpg)
+![Ss583oa](https://user-images.githubusercontent.com/42711913/64774137-f690b480-d596-11e9-99a2-8c3f7ace04ba.jpg)
+### User Testing 
+![ap9B0TB](https://user-images.githubusercontent.com/42711913/64774153-fe505900-d596-11e9-9d30-b96058dd4609.jpg)
+![tiFoMYx](https://user-images.githubusercontent.com/42711913/64774133-f42e5a80-d596-11e9-9faf-8a3f3bff8752.jpg)

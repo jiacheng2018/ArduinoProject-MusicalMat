@@ -11,10 +11,10 @@ https://www.youtube.com/watch?time_continue=23&v=4yl29kJr61w
 # Design Process
 ### Idea Sketch
 ![kRpUeGr](https://user-images.githubusercontent.com/42711913/64773829-63f01580-d596-11e9-8860-19730136d6a2.jpg)
-### Workshop
+### Device testing
 ![0V0wQlp](https://user-images.githubusercontent.com/42711913/64773846-69e5f680-d596-11e9-9dfe-97a864e2b95d.jpg)
-### Device testing 
-![NM6eoYQ](https://user-images.githubusercontent.com/42711913/64773869-78341280-d596-11e9-8435-829a97c168fd.jpg)
+### Workshop
+
 ![Ss583oa](https://user-images.githubusercontent.com/42711913/64774137-f690b480-d596-11e9-99a2-8c3f7ace04ba.jpg)
 ### User Testing 
 ![ap9B0TB](https://user-images.githubusercontent.com/42711913/64774153-fe505900-d596-11e9-9d30-b96058dd4609.jpg)

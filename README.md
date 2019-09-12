@@ -7,10 +7,11 @@ Project Demo of our team
 https://www.youtube.com/watch?time_continue=23&v=4yl29kJr61w
 # Poster Design 
 ![Ro4Lb8l](https://user-images.githubusercontent.com/42711913/64773466-c694e180-d595-11e9-8410-a66b16cee0f0.png)
-![svzqm0i](https://user-images.githubusercontent.com/42711913/64775346-4ff9e300-d599-11e9-9395-ca5df2d2a155.jpg)
+
 # Design Process
 ### Idea Sketch
 ![kRpUeGr](https://user-images.githubusercontent.com/42711913/64773829-63f01580-d596-11e9-8860-19730136d6a2.jpg)
+![svzqm0i](https://user-images.githubusercontent.com/42711913/64775346-4ff9e300-d599-11e9-9395-ca5df2d2a155.jpg)
 ### Device testing
 ![0V0wQlp](https://user-images.githubusercontent.com/42711913/64773846-69e5f680-d596-11e9-9dfe-97a864e2b95d.jpg)
 ![Ss583oa](https://user-images.githubusercontent.com/42711913/64774137-f690b480-d596-11e9-99a2-8c3f7ace04ba.jpg)

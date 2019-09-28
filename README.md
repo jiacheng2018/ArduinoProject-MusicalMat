@@ -1,7 +1,8 @@
 # Arduino_project
-This is the Music Mat project in my school
-It mainly relies on the technology of IOT. 
-We use Arduino as the development board of our design.
+This is the Music Mat project in the course of Physical Computing studio of my school.
+Physical Computing & Interaction Design Studio is designed to give us a thorough working experience of an iterative design process within the context of constructing physical interactive environments from beginning to end. 
+We encounter technology of Mixed Reality and Internet of Things.In terms of the interfaces and interactions we design, we will leave standard interaction technologies such as keyboards, mice, and screens behind in order to explore novel physical mechanisms of interacion with digital information. 
+We use Arduino as the development tool of our design.
 More Description about the project please refer to Wiki.
 Project Demo of our team
 https://www.youtube.com/watch?time_continue=23&v=4yl29kJr61w
